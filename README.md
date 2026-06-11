@@ -69,11 +69,7 @@ The dataset contains **1,200 e-commerce transactions** collected between 2023 an
 
 # 📋 Sample Data Overview
 
-| Order ID | Date | Product | Quantity | Unit Price | Total Price |
-|-----------|------------|------------|----------|------------|------------|
-| ORD001 | 2023-01-05 | Laptop | 2 | 850.00 | 1700.00 |
-| ORD002 | 2023-01-06 | Chair | 1 | 150.00 | 150.00 |
-| ORD003 | 2023-01-07 | Printer | 3 | 220.00 | 660.00 |
+<img width="1168" height="519" alt="image" src="https://github.com/user-attachments/assets/4d59002d-1d09-4295-9bd1-da1e9b5a27f9" />
 
 *Note: Sample records are provided for illustration purposes.*
 
@@ -231,7 +227,7 @@ An interactive Power BI dashboard was developed to present business insights vis
 <img width="976" height="551" alt="WhatsApp Image 2026-06-04 at 1 48 55 PM" src="https://github.com/user-attachments/assets/56ecb947-9b46-4a92-9b88-6c01e1e79396" />
 
 
-<img width="987" height="519" alt="WhatsApp Image 2026-06-04 at 1 51 17 PM" src="https://github.com/user-attachments/assets/4e784cf0-16f2-46c9-b7db-0bf378b0382c" />
+<img width="981" height="526" alt="image" src="https://github.com/user-attachments/assets/2a389ac9-01e7-45ce-a41b-82d1dd171349" />
 
 
 # 💡 Key Insights
