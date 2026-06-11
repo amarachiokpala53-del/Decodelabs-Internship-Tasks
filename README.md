@@ -284,7 +284,7 @@ Since online payments are preferred, improving payment convenience and security 
 
 # 👤 Author
 
-**Amarachi**
+**Okpala Joy Amarachi**
 
 Data Analytics Portfolio Project
 
